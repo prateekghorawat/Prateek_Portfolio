@@ -4,5 +4,3 @@ requests
 python-dotenv>=1.0
 streamlit
 streamlit-chat
-requests
-PIL
