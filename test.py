@@ -364,43 +364,6 @@ components.html(
     height=700,
 )
 # ----- Facts About Me -----
-st.markdown("---")
-# Centered heading
-st.markdown("<h2 style='text-align:center;'>Facts About Me</h2>", unsafe_allow_html=True)
-
-# Inject CSS for centered fact items
-st.markdown(
-    """
-    <style>
-    .facts-container {
-        text-align: center;
-        margin: 2rem 0;
-    }
-    .fact-item {
-        display: inline-block;
-        text-align: left;
-        max-width: 700px;
-        margin-bottom: 2rem;
-    }
-    .fact-emoji {
-        font-size: 2rem;
-        vertical-align: middle;
-        margin-right: 0.5rem;
-    }
-    .fact-title {
-        font-size: 1.5rem;
-        font-weight: 700;
-        text-align: center;
-        margin-bottom: 0.5rem;
-    }
-    .fact-text {
-        font-size: 1.125rem;
-        line-height: 1.6;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
 
 # Centered facts
 st.markdown(
@@ -448,5 +411,6 @@ contact_form = """
 </form>
 """
 st.markdown(contact_form, unsafe_allow_html=True)
+
 
 
