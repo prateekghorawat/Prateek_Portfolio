@@ -263,20 +263,20 @@ projects = [
         "image_path": "projects_images/i2.png"
     },
     {
-        "title": "Wasserstein GAN — Realistic Portrait Generation",
-        "technologies": "PyTorch · WGAN-GP · CelebA Dataset · NumPy · Matplotlib",
-        "description": "Built a deep learning system generating realistic human portraits by training on 200,000+ celebrity face images. Resolved training instability and mode collapse via Wasserstein loss with gradient penalty (WGAN-GP).",
-        "link_text": "View Project",
-        "link_url": "https://github.com/prateekghorawat/Generative-AI/tree/main/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset-main",
-        "image_path": "projects_images/project_1.png"
-    },
-    {
         "title": "Sales Analytics Data Warehouse Modernization",
         "technologies": "SQL Server · SSIS · Medallion Architecture · Star Schema · Power BI",
         "description": "Architected a modern data warehouse using Bronze → Silver → Gold layers for systematic data quality improvement. Reduced query latency by 50% with optimized star schema design and end-to-end ETL pipelines.",
         "link_text": "View Project",
         "link_url": "https://github.com/prateekghorawat/Data-Warehousing-/tree/main",
         "image_path": "projects_images/project_3.png"
+    },
+    {
+        "title": "Wasserstein GAN — Realistic Portrait Generation",
+        "technologies": "PyTorch · WGAN-GP · CelebA Dataset · NumPy · Matplotlib",
+        "description": "Built a deep learning system generating realistic human portraits by training on 200,000+ celebrity face images. Resolved training instability and mode collapse via Wasserstein loss with gradient penalty (WGAN-GP).",
+        "link_text": "View Project",
+        "link_url": "https://github.com/prateekghorawat/Generative-AI/tree/main/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset-main",
+        "image_path": "projects_images/project_1.png"
     },
     {
         "title": "Fovea Detection & Eye Tracking System",
