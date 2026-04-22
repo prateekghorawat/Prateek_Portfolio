@@ -258,9 +258,9 @@ projects = [
         "title": "AI Prediction System for Trade & Risk Analytics",
         "technologies": "Scikit-learn · ML Pipelines · Feature Engineering · Python",
         "description": "Built an end-to-end ML system achieving ~95% accuracy in anomaly and risk detection on large-scale operational datasets. Automated insight generation using LLM-based summarization, reducing analyst workload by 80%.",
-        "link_text": "View Demo",
-        "link_url": "https://huggingface.co/spaces/pjpj4545/Prateek_portfolio",
-        "image_path": "projects_images/i1.png"
+        "link_text": "View Details",
+        "link_url": "projects_images/i1.png",
+        "image_path": "projects_images/i2.png"
     },
     {
         "title": "Wasserstein GAN — Realistic Portrait Generation",
