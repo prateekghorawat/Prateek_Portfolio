@@ -264,7 +264,7 @@ projects = [
     },
     {
         "title": "Sales Analytics Data Warehouse Modernization",
-        "technologies": "UtilsForecast · NeuralForecast · TimeGPT · Chronos · Moirai · TimesFM · TimeLLM",
+        "technologies": "SQL Server · SSIS · Medallion Architecture · Star Schema · Power BI",
         "description": "Architected a modern data warehouse using Bronze → Silver → Gold layers for systematic data quality improvement. Reduced query latency by 50% with optimized star schema design and end-to-end ETL pipelines.",
         "link_text": "View Project",
         "link_url": "https://github.com/prateekghorawat/Data-Warehousing-/tree/main",
@@ -272,10 +272,10 @@ projects = [
     },
     {
         "title": "Time Series Forecasting: Blog Traffic Prediction with Multiple Models",
-        "technologies": "SQL Server · SSIS · Medallion Architecture · Star Schema · Power BI",
+        "technologies": "UtilsForecast · NeuralForecast · TimeGPT · Chronos · Moirai · TimesFM · TimeLLM",
         "description": "Built end-to-end time series forecasting pipeline comparing 8 models (SeasonalNaive, AutoARIMA, TimeGPT±exog, Chronos, Moirai, TimesFM, TimeLLM) on daily blog traffic data with weekly seasonality and exogenous features (holidays, new articles).",
         "link_text": "View Project",
-        "link_url": "https://github.com/prateekghorawat/Data-Warehousing-/tree/main",
+        "link_url": "https://github.com/prateekghorawat/Time-Series-Forecasting-with-Foundation-Models/blob/main/Notebook.ipynb",
         "image_path": "projects_images/i3.png"
     },
     {
