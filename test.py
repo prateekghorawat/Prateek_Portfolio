@@ -251,7 +251,7 @@ projects = [
         "technologies": "LangChain · LangGraph · MCP · Python · LLMs",
         "description": "Designed and deployed a multi-agent AI orchestration system at BMW Group enabling autonomous reasoning, coordination, and automation across complex business workflows. Integrated LangGraph for stateful agent control with real-time monitoring and structured output validation.",
         "link_text": "View Demo",
-        "link_url": "https://huggingface.co/spaces/pjpj4545/Prateek_portfolio",
+        "link_url": "https://github.com/prateekghorawat/Prateek_Portfolio/blob/main/projects_images/i1.png",
         "image_path": "projects_images/i2.png"
     },
     {
