@@ -147,7 +147,7 @@ with col_text:
     )
 
     st.markdown(
-        '<a href="https://drive.google.com/file/d/1ASoU2hOwNSdhIE5i0wobyO_P0XmIrelh/view?usp=sharing" class="btn btn-resume" target="_blank">View Resume</a>'
+        '<a href="https://drive.google.com/file/d/1j1vNN0Jr2Qd9bdAQdo-s4eN0Hw6sjtd7/view?usp=sharing" class="btn btn-resume" target="_blank">View Resume</a>'
         '<a href="https://linkedin.com/in/prateek-ghorawat" class="btn btn-linkedin" target="_blank">LinkedIn</a>'
         '<a href="https://github.com/prateekghorawat/" class="btn btn-github" target="_blank">GitHub</a>',
         unsafe_allow_html=True
