@@ -260,7 +260,7 @@ projects = [
         "description": "Built an end-to-end ML system achieving ~95% accuracy in anomaly and risk detection on large-scale operational datasets. Automated insight generation using LLM-based summarization, reducing analyst workload by 80%.",
         "link_text": "View Details",
         "link_url": "https://github.com/prateekghorawat/Prateek_Portfolio/blob/main/projects_images/i1.png",
-        "image_path": "projects_images/i2.png"
+        "image_path": "projects_images/i4.png"
     },
     {
         "title": "Sales Analytics Data Warehouse Modernization",
